@@ -1,1 +1,3 @@
-# GitHub-Tutorial
+# GitHub-LeetCode
+
+Hi, welcome to read~
